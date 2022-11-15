@@ -16,7 +16,6 @@ const Login = () => {
     localStorage.setItem('user', JSON.stringify(decoded))
 
     const { name, sub, picture } = decoded
-    console.log(decoded, 'info')
 
     const doc = {
       _id: sub,
