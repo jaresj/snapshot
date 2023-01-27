@@ -4,7 +4,7 @@ A social media webpage dedicated to sharing memories
 
 **Link to project:** https://snapshotjj.netlify.app
 
-![alt tag](./public/snapshot.gif)
+![alt tag](./snapshot_frontend/public/snapshot.gif)
 
 ## How It's Made:
 
